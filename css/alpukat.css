@@ -1,0 +1,43 @@
+
+body {
+  background-color:honeydew;
+}
+
+h1 {
+  font-size: 100px;
+  color: greenyellow;
+}
+
+h1:hover {
+  background-color: hotpink
+
+}
+
+p {
+  width: 50%;
+}
+
+img {
+  background-color: purple;
+}
+
+/* Class Selector*/
+.alpukat {
+  background-color: green;
+}
+.rokok { 
+  background-color: red;
+}
+
+.round {
+  border-radius: 100%;
+}
+/* ID Selector */
+
+#Judul {
+  font-size: 50px;
+}
+
+#favorit {
+  color: gold;
+}
