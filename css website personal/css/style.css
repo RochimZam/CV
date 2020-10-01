@@ -107,13 +107,14 @@ a:hover {
 }
 
 .footer-text {
+    color: #eeeeee
     font-size: 14px;
     margin-top: 30px;
 }
 
 #attribute {
     position: absolute;
-    left: 300px;
+    left: 220px;
     top: 150px;
 }
 
