@@ -6,12 +6,15 @@ body {
     font-family:"Fira Sans", sans-serif;
 }
 
-#attribute {
-    position: absolute;
+.wrapper {
+    width: 720px;
+    margin: 0 auto;
 }
 
-h1 {
-    width: 200px;
-    margin: 0 auto 0 auto;
-    font-family:"Caveat", cursive;
+.title {
+    font-size: 4.5rem;
+    font-family: "caveat", cursive;
+}
+#attribute {
+    position: absolute;
 }
