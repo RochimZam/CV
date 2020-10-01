@@ -6,6 +6,10 @@ body {
     font-family:"Fira Sans", sans-serif;
 }
 
+h1 {
+    margin-bottom: 50px;
+}
+
 h2 {
     color: #00adb5;
 }
@@ -16,7 +20,12 @@ p {
 }
 
 a { 
+    color: #00adb5;
     text-decoration: none;
+}
+
+a:hover {
+    color: white;
 }
 
 .wrapper {
@@ -29,7 +38,7 @@ a {
     margin-bottom: 200px;
 }
 
-/* SECTION PERTAMA*/
+/*SECTION PERTAMA*/
 
 .intro {
     text-align: left;
@@ -52,13 +61,60 @@ a {
 }
 .title {
     font-size: 4.5rem;
+    font-weight: bold;
     font-family: "caveat", cursive;
     display: block;
-    font-weight: bold;
+}
+
+/*SECTION KEDUA*/
+
+.skill-row {
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.work {
+    width: 270px;
+    height: 270px;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill2 {
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-left: 30px;
+}
+
+/*SECTION KETIGA*/
+
+.cta-text {
+    width: 60%;
+    margin: 0 auto 12px auto
+}
+
+/*FOOTER*/
+
+.footer {
+    background-color:#393e46;
+    padding: 20px 0 30px
+}
+
+.social-links {
+    margin: 0 12px 20px;
+    
+}
+
+.footer-text {
+    font-size: 14px;
+    margin-top: 30px;
 }
 
 #attribute {
     position: absolute;
+    left: 300px;
+    top: 150px;
 }
 
 
