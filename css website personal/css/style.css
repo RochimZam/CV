@@ -3,8 +3,15 @@ body {
     background-color: #222831;
     color: #eeeeee;
     text-align: center;
+    font-family:"Fira Sans", sans-serif;
 }
 
 #attribute {
     position: absolute;
+}
+
+h1 {
+    width: 200px;
+    margin: 0 auto 0 auto;
+    font-family:"Caveat", cursive;
 }
