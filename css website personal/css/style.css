@@ -11,6 +11,9 @@ body {
     margin: 0 auto;
 }
 
+.foto-zam {
+float: right;
+}
 .title {
     font-size: 4.5rem;
     font-family: "caveat", cursive;
