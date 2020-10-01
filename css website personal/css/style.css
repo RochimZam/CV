@@ -8,11 +8,16 @@ body {
 
 .wrapper {
     width: 720px;
+    padding-top: 250px;
     margin: 0 auto;
 }
 
 .foto-zam {
-float: right;
+    width: 200px;
+    height: 200px;
+    float: right;
+    border-radius: 100%;
+    margin-left: 30px;
 }
 .title {
     font-size: 4.5rem;
