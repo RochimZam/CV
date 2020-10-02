@@ -7,9 +7,38 @@ body {
 }
 
 h1 { 
-
+    margin-bottom: 50px;
 }
 
+p {
+    line-height: 1.5;
+}
+
+a {
+    color: #00adb5
+}
+
+a:hover {
+    color: white;
+}
+
+.wrapper {
+    width: 720px;
+    padding-top: 225px;
+    margin: 0 auto;
+}
+
+.intro {
+    text-align: left;
+}
+
+.foto-zam {
+    width: 200px;
+    height: 200px;
+    float: right;
+    border-radius: 100%;
+    margin-left: 30px;
+}
 #attribute {
     position: absolute;
     left: 220px;
